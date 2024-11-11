@@ -1,0 +1,1 @@
+Led a full-stack project to transform DataArrows' TwinUp digital twin software from a web-based platform to a mobile app, improving accessibility and user experience through Agile methodologies. Utilized React Native for front-end development and integrated RESTful APIs for real-time data management on the back end. Key technologies included JavaScript, HTML, and CSS.
